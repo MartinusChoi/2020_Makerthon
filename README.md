@@ -11,7 +11,7 @@
   - pillitee
     - 스마트 약통
   - App
-    - pilliter와 pillitee 
+    - pilliter와 pillitee 제
   - AI
     - user의 복용주기 학습
     - 유용한 Data 
